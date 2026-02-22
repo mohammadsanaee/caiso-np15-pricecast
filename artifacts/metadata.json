@@ -1,0 +1,20 @@
+{
+  "node": "TH_NP15_GEN-APND",
+  "market": "DAM",
+  "trained_rows": 552,
+  "train_start": "2026-01-30 04:00:00+00:00",
+  "train_end": "2026-02-22 03:00:00+00:00",
+  "params": {
+    "n_estimators": 1500,
+    "learning_rate": 0.03,
+    "num_leaves": 63,
+    "min_child_samples": 50,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "random_state": 42
+  },
+  "walkforward_mean_rmse": 3.3573570791725293,
+  "walkforward_mean_mae": 2.6201840062067783,
+  "walkforward_mean_baseline_rmse": 5.127730700698151,
+  "walkforward_mean_baseline_mae": 3.5071307272727266
+}
