@@ -1,1 +1,1 @@
-# caiso-np15-pricecast
+![CI](../../actions/workflows/ci.yml/badge.svg)
