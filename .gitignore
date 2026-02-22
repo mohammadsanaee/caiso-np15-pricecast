@@ -1,0 +1,12 @@
+# data
+data/raw/
+data/clean/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# mac
+.DS_Store
